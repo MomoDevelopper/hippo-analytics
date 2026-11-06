@@ -1,0 +1,316 @@
+{
+  "timestamp": "2026-11-06T18:53:25.902962",
+  "site": "https://www.lonab.bf",
+  "accessible": true,
+  "pages_trouvees": [
+    {
+      "url": "https://www.lonab.bf",
+      "analyse": {
+        "titre": "Accueil | LONAB",
+        "nb_liens": 91,
+        "nb_pdfs": 1,
+        "menus": [
+          {
+            "texte": "Accueil",
+            "href": "/fr"
+          },
+          {
+            "texte": "LONAB",
+            "href": "/fr/node/1"
+          },
+          {
+            "texte": "Présentation",
+            "href": "/fr/node/2"
+          },
+          {
+            "texte": "Missions",
+            "href": "/fr/node/3"
+          },
+          {
+            "texte": "Organisation",
+            "href": "/fr/node/4"
+          },
+          {
+            "texte": "Jeu responsable",
+            "href": "/fr/node/5"
+          },
+          {
+            "texte": "Certification",
+            "href": "/fr/node/6"
+          },
+          {
+            "texte": "Plan stratégique 2016 - 2025",
+            "href": "/fr/node/7"
+          },
+          {
+            "texte": "Informations pratiques",
+            "href": "/fr/node/8"
+          },
+          {
+            "texte": "Nos produits",
+            "href": "/fr/node/9"
+          },
+          {
+            "texte": "PMU'B",
+            "href": "/fr/pmub"
+          },
+          {
+            "texte": "ECD",
+            "href": "/fr/node/29"
+          },
+          {
+            "texte": "Tombola Minute Plus",
+            "href": "/fr/tombola-minute"
+          },
+          {
+            "texte": "Télé fortune",
+            "href": "/fr/telefortue"
+          },
+          {
+            "texte": "TCE",
+            "href": "/fr/node/31"
+          },
+          {
+            "texte": "Œuvres sociales",
+            "href": "/fr/oeuvres-sociales"
+          },
+          {
+            "texte": "Notre réseau",
+            "href": "/fr/node/37"
+          },
+          {
+            "texte": "Direction régionale de l'Est",
+            "href": "/fr/node/21"
+          },
+          {
+            "texte": "Direction régionale de l'Ouest",
+            "href": "/fr/node/20"
+          },
+          {
+            "texte": "Direction régionale du Centre",
+            "href": "/fr/node/19"
+          }
+        ],
+        "mots_hippiques_detectes": {
+          "pmu": true,
+          "hippique": true,
+          "course": true,
+          "arrivée": true,
+          "tiercé": true,
+          "quarté": true,
+          "résultat": true
+        },
+        "extrait_contenu": "Accueil | LONAB Aller au contenu principal Loterie Nationale Burkinabè Les lots aux gagnants, les bénéfices au Faso Rechercher Rechercher Rechercher Toggle navigation Main navigation Accueil LONAB Présentation Missions Organisation Jeu responsable Certification Plan stratégique 2016 - 2025 Informations pratiques Nos produits Faso pari PMU'B ECD Faso cash Tombola Minute Plus Télé fortune Jeux communautaires TCE Œuvres sociales Notre réseau Direction régionale de l'Est Direction régionale de l'Oue"
+      }
+    },
+    {
+      "url": "https://www.lonab.bf/pmub",
+      "analyse": {
+        "titre": "PMU'B | LONAB",
+        "nb_liens": 45,
+        "nb_pdfs": 0,
+        "menus": [
+          {
+            "texte": "Accueil",
+            "href": "/fr"
+          },
+          {
+            "texte": "LONAB",
+            "href": "/fr/node/1"
+          },
+          {
+            "texte": "Présentation",
+            "href": "/fr/node/2"
+          },
+          {
+            "texte": "Missions",
+            "href": "/fr/node/3"
+          },
+          {
+            "texte": "Organisation",
+            "href": "/fr/node/4"
+          },
+          {
+            "texte": "Jeu responsable",
+            "href": "/fr/node/5"
+          },
+          {
+            "texte": "Certification",
+            "href": "/fr/node/6"
+          },
+          {
+            "texte": "Plan stratégique 2016 - 2025",
+            "href": "/fr/node/7"
+          },
+          {
+            "texte": "Informations pratiques",
+            "href": "/fr/node/8"
+          },
+          {
+            "texte": "Nos produits",
+            "href": "/fr/node/9"
+          },
+          {
+            "texte": "PMU'B",
+            "href": "/fr/pmub"
+          },
+          {
+            "texte": "ECD",
+            "href": "/fr/node/29"
+          },
+          {
+            "texte": "Tombola Minute Plus",
+            "href": "/fr/tombola-minute"
+          },
+          {
+            "texte": "Télé fortune",
+            "href": "/fr/telefortue"
+          },
+          {
+            "texte": "TCE",
+            "href": "/fr/node/31"
+          },
+          {
+            "texte": "Œuvres sociales",
+            "href": "/fr/oeuvres-sociales"
+          },
+          {
+            "texte": "Notre réseau",
+            "href": "/fr/node/37"
+          },
+          {
+            "texte": "Direction régionale de l'Est",
+            "href": "/fr/node/21"
+          },
+          {
+            "texte": "Direction régionale de l'Ouest",
+            "href": "/fr/node/20"
+          },
+          {
+            "texte": "Direction régionale du Centre",
+            "href": "/fr/node/19"
+          }
+        ],
+        "mots_hippiques_detectes": {
+          "pmu": true,
+          "hippique": true,
+          "course": true,
+          "partant": true,
+          "arrivée": true,
+          "tiercé": true,
+          "quarté": true,
+          "résultat": true
+        },
+        "extrait_contenu": "PMU'B | LONAB Aller au contenu principal Loterie Nationale Burkinabè Les lots aux gagnants, les bénéfices au Faso Rechercher Rechercher Rechercher Toggle navigation Main navigation Accueil LONAB Présentation Missions Organisation Jeu responsable Certification Plan stratégique 2016 - 2025 Informations pratiques Nos produits Faso pari PMU'B ECD Faso cash Tombola Minute Plus Télé fortune Jeux communautaires TCE Œuvres sociales Notre réseau Direction régionale de l'Est Direction régionale de l'Ouest"
+      }
+    },
+    {
+      "url": "https://www.lonab.bf/",
+      "analyse": {
+        "titre": "Accueil | LONAB",
+        "nb_liens": 91,
+        "nb_pdfs": 1,
+        "menus": [
+          {
+            "texte": "Accueil",
+            "href": "/fr"
+          },
+          {
+            "texte": "LONAB",
+            "href": "/fr/node/1"
+          },
+          {
+            "texte": "Présentation",
+            "href": "/fr/node/2"
+          },
+          {
+            "texte": "Missions",
+            "href": "/fr/node/3"
+          },
+          {
+            "texte": "Organisation",
+            "href": "/fr/node/4"
+          },
+          {
+            "texte": "Jeu responsable",
+            "href": "/fr/node/5"
+          },
+          {
+            "texte": "Certification",
+            "href": "/fr/node/6"
+          },
+          {
+            "texte": "Plan stratégique 2016 - 2025",
+            "href": "/fr/node/7"
+          },
+          {
+            "texte": "Informations pratiques",
+            "href": "/fr/node/8"
+          },
+          {
+            "texte": "Nos produits",
+            "href": "/fr/node/9"
+          },
+          {
+            "texte": "PMU'B",
+            "href": "/fr/pmub"
+          },
+          {
+            "texte": "ECD",
+            "href": "/fr/node/29"
+          },
+          {
+            "texte": "Tombola Minute Plus",
+            "href": "/fr/tombola-minute"
+          },
+          {
+            "texte": "Télé fortune",
+            "href": "/fr/telefortue"
+          },
+          {
+            "texte": "TCE",
+            "href": "/fr/node/31"
+          },
+          {
+            "texte": "Œuvres sociales",
+            "href": "/fr/oeuvres-sociales"
+          },
+          {
+            "texte": "Notre réseau",
+            "href": "/fr/node/37"
+          },
+          {
+            "texte": "Direction régionale de l'Est",
+            "href": "/fr/node/21"
+          },
+          {
+            "texte": "Direction régionale de l'Ouest",
+            "href": "/fr/node/20"
+          },
+          {
+            "texte": "Direction régionale du Centre",
+            "href": "/fr/node/19"
+          }
+        ],
+        "mots_hippiques_detectes": {
+          "pmu": true,
+          "hippique": true,
+          "course": true,
+          "arrivée": true,
+          "tiercé": true,
+          "quarté": true,
+          "résultat": true
+        },
+        "extrait_contenu": "Accueil | LONAB Aller au contenu principal Loterie Nationale Burkinabè Les lots aux gagnants, les bénéfices au Faso Rechercher Rechercher Rechercher Toggle navigation Main navigation Accueil LONAB Présentation Missions Organisation Jeu responsable Certification Plan stratégique 2016 - 2025 Informations pratiques Nos produits Faso pari PMU'B ECD Faso cash Tombola Minute Plus Télé fortune Jeux communautaires TCE Œuvres sociales Notre réseau Direction régionale de l'Est Direction régionale de l'Oue"
+      }
+    }
+  ],
+  "pdfs_trouves": [
+    {
+      "url": "https://www.lonab.bf/sites/default/files/2026-11/Res_05_11_2026_QUARTE.pdf",
+      "texte": "",
+      "type": "inconnu"
+    }
+  ],
+  "erreur": null
+}
