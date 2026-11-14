@@ -23,8 +23,8 @@ COPY . .
 # Créer les dossiers nécessaires
 RUN mkdir -p /app/uploads/programmes /app/models
 
-# Port d'écoute
-EXPOSE 8000
+# Port d'écoute (Railway injecte $PORT dynamiquement)
+EXPOSE $PORT
 
-# Démarrage production (sans --reload, avec workers)
-CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "2"]
+# Démarrage — Railway override avec railway.toml startCommand
+CMD ["sh", "-c", "uvicorn app.main:app --host 0.0.0.0 --port ${PORT:-8000}"]
