@@ -37,6 +37,7 @@ export interface Cheval {
   robe: string | null;
   origine: string | null;
   proprietaire: string | null;
+  naisseur: string | null;
   entraineur: { id: number; nom: string } | null;
   statistiques?: {
     sorties_analysees: number;

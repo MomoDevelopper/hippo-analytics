@@ -7,7 +7,7 @@ import { usePathname } from "next/navigation";
 import {
   LayoutDashboard,
   CalendarDays,
-  Horse,
+  Gauge,
   Users,
   UserCheck,
   Brain,
@@ -27,7 +27,7 @@ const NAVIGATION = [
     { label: "Courses", href: "/courses", icon: CalendarDays },
   ]},
   { groupe: "Analyse", items: [
-    { label: "Chevaux", href: "/chevaux", icon: Horse },
+    { label: "Chevaux", href: "/chevaux", icon: Gauge },
     { label: "Jockeys", href: "/jockeys", icon: Users },
     { label: "Entraîneurs", href: "/entraineurs", icon: UserCheck },
   ]},

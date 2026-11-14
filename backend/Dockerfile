@@ -3,13 +3,15 @@ FROM python:3.11-slim
 WORKDIR /app
 
 # Installer les dépendances système (Tesseract OCR + PostgreSQL client)
-RUN apt-get update && apt-get install -y \
-    tesseract-ocr \
-    tesseract-ocr-fra \
-    libpq-dev \
-    gcc \
-    curl \
-    && rm -rf /var/lib/apt/lists/*
+RUN apt-get update -y \
+    && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
+        tesseract-ocr \
+        tesseract-ocr-fra \
+        libpq-dev \
+        gcc \
+        curl \
+    && apt-get clean -y \
+    && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* || true
 
 # Copier et installer les dépendances Python
 COPY requirements.txt .

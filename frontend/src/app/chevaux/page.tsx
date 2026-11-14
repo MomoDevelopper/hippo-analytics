@@ -5,7 +5,7 @@
 import { useState } from "react";
 import { useQuery } from "@tanstack/react-query";
 import Link from "next/link";
-import { Search, Horse } from "lucide-react";
+import { Search, Gauge } from "lucide-react";
 import { chevauxApi } from "@/lib/api";
 import { Skeleton, MessageVide } from "@/components/ui";
 import type { Cheval } from "@/types";
@@ -27,7 +27,7 @@ export default function ChevauxPage() {
     <div className="space-y-6">
       <div>
         <h1 className="text-2xl font-bold text-gray-900 flex items-center gap-2">
-          <Horse size={24} className="text-hippo-600" /> Chevaux
+          <Gauge size={24} className="text-hippo-600" /> Chevaux
         </h1>
         <p className="text-sm text-gray-500 mt-1">{total} chevaux enregistrés</p>
       </div>

@@ -5,7 +5,7 @@
  */
 import { useQuery } from "@tanstack/react-query";
 import {
-  Horse,
+  Gauge,
   Users,
   UserCheck,
   Trophy,
@@ -69,7 +69,7 @@ export default function DashboardPage() {
             <StatCard
               titre="Chevaux enregistrés"
               valeur={stats?.base_de_donnees.total_chevaux ?? 0}
-              icon={<Horse size={18} />}
+              icon={<Gauge size={18} />}
               couleur="blue"
             />
             <StatCard

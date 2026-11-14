@@ -4,7 +4,7 @@
  */
 import { useParams } from "next/navigation";
 import { useQuery } from "@tanstack/react-query";
-import { Horse, TrendingUp, Award } from "lucide-react";
+import { Gauge, TrendingUp, Award } from "lucide-react";
 import { chevauxApi } from "@/lib/api";
 import { NoteBar, Skeleton, ErreurMessage } from "@/components/ui";
 import { formatDate, formatCote } from "@/lib/utils";
